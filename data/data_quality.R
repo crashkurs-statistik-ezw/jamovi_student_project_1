@@ -2,7 +2,7 @@ library(assertr)
 library(tidyverse)
 
 # Gereinigter Datensatz laden ---------------------------------------------
-dframe <- read_csv("data/clean/data_cleaned.csv") 
+dframe <- read_csv("data/clean/data_cleaned_r.csv") 
 
 
 # Daten einsehen ----------------------------------------------------------
